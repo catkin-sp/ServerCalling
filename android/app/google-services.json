@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725058708289",
+    "project_id": "qrservernotification",
+    "storage_bucket": "qrservernotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725058708289:android:e9d1b3e42772f19b25b7c0",
+        "android_client_info": {
+          "package_name": "com.reactclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725058708289-fiqkquu2pccuolhji6lnekt2ujvqd240.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWY5Cr2fYvKC9ucri1ZuNj-Meyhq-1P2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725058708289-fiqkquu2pccuolhji6lnekt2ujvqd240.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
